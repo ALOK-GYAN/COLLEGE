@@ -8,5 +8,5 @@ ALOK MISHRA
 Frontened developer
 
 # project
-NETFLIX CLONE
+NETFLIX CLONE &
 SYMON SAYS GAME
