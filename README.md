@@ -1,4 +1,4 @@
-# COLLEGE
+# Channel
 This is Git &amp; Github channel.
 
 # student
