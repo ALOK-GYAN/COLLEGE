@@ -6,7 +6,3 @@ ALOK MISHRA
 
 # skills
 Frontened developer
-
-# project
-NETFLIX CLONE &
-SYMON SAYS GAME
